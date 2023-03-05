@@ -1,1 +1,1 @@
-# vue-practices_yt
+# vue-practices
